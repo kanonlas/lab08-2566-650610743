@@ -1,5 +1,5 @@
 import { Footer } from "../../component/Footer";
-import Header from "../../component/Header";
+import { Header } from "../../component/Header";
 import { Task } from "../../component/Task";
 import { TaskInput } from "../../component/TaskInput";
 
